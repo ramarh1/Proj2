@@ -1,0 +1,7 @@
+Pokemon Text Game
+Creator: Ramar Huntley
+Course: CS501 Drexel University
+Inspiration from: https://github.com/Jmgiacone/Pokemon
+
+Description:
+This is a game that simulates the Pokemon game using a starting Pokemon and a random Pokemon to battle against. You will be able to look at the Pokemon in your inventory, as well as your Pokedex. The program is ran by entering your name, then choosing from the menu options using numbers from 1-4, then writing the name of Pokemon Moves in order to win a battle. In training info, you will be able to see how many battles you've lost and won.

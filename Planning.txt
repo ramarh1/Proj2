@@ -1,0 +1,42 @@
+README
+PLANNING FILE FOR JAVA PROJECT 2
+Plan expectations:
+
+- Class Hierarchy with arrows denoting relationships (minimum of 3 classes). Must have IS-A relationship and should have HAS-A relationship
+
+- Consider whether or not an interface is useful for your program (NOT USEFUL)
+
+- UML diagram of each class
+
+- Pseudocode for a user facing console program 
+
+
+
+
+
+
+
+
+
+
+Project expectations:
+
+- All files organized in a project folder
+
+- All classes written and tested in isolation
+
+- Classes will have constructors, getters and setters as needed, a toString() method and other methods as needed. (Non-Driver Classes DO NOT use Scanner. Your Main/Driver can use Scanner)
+
+- The client program must have a reasonable and friendly interface for the user
+
+- The project must include a collection of objects such as an array or an ArrayList<>
+
+- The project must make use of polymorphism
+
+- The user must be able to affect the program while its running (input data and/or menu choices)
+
+- The program must validate user input
+
+- The program must produce output
+
+- The program must include user friendly error messages (TRY/EXCEPT HANDLING)
