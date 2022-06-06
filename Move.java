@@ -46,33 +46,3 @@ public  class Move {
     }
 
 }
-
-
-
-
-
-
-
-
-/*
-MOVE UML Diagram
-----------------
-- attackPower : int
-- name : String
-- type : String
------------------
-+ Move()
-+ Move(name : String, attackPower : int, type : String)
-+ getName() : String
-+ getAttackPower() : int
-+ getType() : String
-+ toString() : String
-
-HOW TO ADD NEW MOVE
-Move m1 = new Move("slam", 30, "electric")
-electro ball = 30 damage, electric
-thunder smash = 75
-quick attack = 15
-
-
-*/

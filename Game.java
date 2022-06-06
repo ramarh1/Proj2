@@ -127,7 +127,7 @@ public class Game {
             System.out.println("A wild " + random_opp_name + " appeared!\n");
             pokedex.addPokemon(random_opponent);
             String chosen_name = chosen_one.getName();
-            
+
             System.out.println("-----THE BATTLE STARTS-----");
             while (!random_opponent.hasFainted() && !chosen_one.hasFainted()){
             
@@ -306,26 +306,3 @@ public class Game {
     }
 }
 }
-
-
-
-
-
-
-
-
-
-
-
-/*
-
-MENU CHOICES: fight, pokemon, run, pokedex, quit?
-
-GAME UML DIAGRAM
-----------------
-
-----------------
-+ Game(args: String[]): void
-
-
-*/

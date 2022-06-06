@@ -41,26 +41,3 @@ public class Trainer {
     }
 
 }
-
-/*
-Trainer can have up to 6 pokemon
-
-Trainer UML Class
-------------------
-- name : String
-- BattlesWon : int
-- BattlesLost : int
-- weekday_name : String
-
-
--------------------
-+ Trainer(user_name : String)
-+ getName() : String
-+ setBattlesWon(battlesWon : int) : void
-+ setBattlesLost(battlesLost : int) : void
-+ getBattlesWon() : int
-+ getBattlesLost() : int
-+ toString() : String
-
-
-*/

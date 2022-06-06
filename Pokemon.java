@@ -90,32 +90,3 @@ public class Pokemon {
 
 }
 
-/*
-
-Pokemon Class UML Design
---------------------------
-- HP : int
-- maxHP : int
-- attack : int
-- name : String
-- defense : int
-- type : String
-- attacksKnown: ArrayList<Move>
-- fainted : boolean
----------------------------
-+ Pokemon()
-+ Pokemon(...)
-+ takeDamage(damage : int) : void
-+ getName() : String
-+ addMove(move: Move) : void
-+ removeMove(move: Move) : void
-+ listMoves() : ArrayList<Move>
-+ toString() : String
-
-
-
-
-CLASS HIERARCHY
-Pokemon HAS moves (aggregation) BUT THEY ARE NOT OWNED BY POKEMON
-EMPTY DIAMOND DENOTES AGGREGATION
-*/

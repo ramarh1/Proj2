@@ -30,20 +30,3 @@ public class Pokedex {
 
 
 }
-
-/*
-POKEDEX UML DIAGRAM
-Pokedex Class
--------------------
-list : ArrayList<Pokemon>
----------------
-+ addPokemon(pokemon : Pokemon) : void
-+ searchName(name : String) : ArrayList<Pokemon>
-+ getPokemon() : List<Pokemon>
-
-
-
-
-
-POKEDEX HAS POKEMON (CLASS HIERARCHY) (aggregation)
-*/

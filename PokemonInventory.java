@@ -26,16 +26,3 @@ class PokemonInventory extends Pokedex{
         return list;
     }
 }
-
-/*
-POKEMON INVENTORY IS A POKEDEX (SUBCLASS OF POKEDEX)
-PokemonInventory Class
-UML DIAGRAM
----------------
-list : ArrayList<Pokemon>
----------------
-+ addPokemon(pokemon : Pokemon) : void
-+ searchName(name : String) : ArrayList<Pokemon>
-+ getPokemon() : List<Pokemon>
-
-*/
